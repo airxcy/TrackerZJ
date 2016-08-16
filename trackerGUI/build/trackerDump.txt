@@ -1,0 +1,5252 @@
+inited
+frameidx:0
+calcGradient:
+totalGradPoint:0
+acceptPtrNum:0
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:-1
+Total Time0.059573
+frameidx:1
+calcGradient:
+totalGradPoint:0
+acceptPtrNum:0
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:-1
+Total Time0.079363
+frameidx:2
+calcGradient:
+totalGradPoint:0
+acceptPtrNum:0
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:-1
+Total Time0.064407
+frameidx:3
+calcGradient:
+totalGradPoint:0
+acceptPtrNum:0
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:-1
+Total Time0.066425
+frameidx:4
+calcGradient:
+totalGradPoint:898390
+acceptPtrNum:1024
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:-1
+Total Time0.065145
+frameidx:5
+calcGradient:
+totalGradPoint:895141
+acceptPtrNum:1024
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:0
+Total Time0.06387
+frameidx:6
+calcGradient:
+totalGradPoint:13252
+acceptPtrNum:359
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1022
+Total Time0.072656
+frameidx:7
+calcGradient:
+totalGradPoint:12891
+acceptPtrNum:367
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.076542
+frameidx:8
+calcGradient:
+totalGradPoint:12824
+acceptPtrNum:352
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.07583
+frameidx:9
+calcGradient:
+totalGradPoint:12878
+acceptPtrNum:358
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.071938
+frameidx:10
+calcGradient:
+totalGradPoint:12670
+acceptPtrNum:323
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.064928
+frameidx:11
+calcGradient:
+totalGradPoint:12646
+acceptPtrNum:364
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.067479
+frameidx:12
+calcGradient:
+totalGradPoint:12788
+acceptPtrNum:361
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.06847
+frameidx:13
+calcGradient:
+totalGradPoint:12497
+acceptPtrNum:340
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.065145
+frameidx:14
+calcGradient:
+totalGradPoint:12040
+acceptPtrNum:331
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.066024
+frameidx:15
+calcGradient:
+totalGradPoint:11497
+acceptPtrNum:332
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.075565
+frameidx:16
+calcGradient:
+totalGradPoint:11300
+acceptPtrNum:355
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.075787
+frameidx:17
+calcGradient:
+totalGradPoint:11337
+acceptPtrNum:319
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.075707
+frameidx:18
+calcGradient:
+totalGradPoint:11798
+acceptPtrNum:329
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.074958
+frameidx:19
+calcGradient:
+totalGradPoint:12576
+acceptPtrNum:373
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.074927
+frameidx:20
+calcGradient:
+totalGradPoint:12469
+acceptPtrNum:329
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1021
+Total Time0.080581
+frameidx:21
+calcGradient:
+totalGradPoint:12592
+acceptPtrNum:385
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:497
+Total Time0.06147
+frameidx:22
+calcGradient:
+totalGradPoint:3717
+acceptPtrNum:139
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:990
+Total Time0.061414
+frameidx:23
+calcGradient:
+totalGradPoint:3498
+acceptPtrNum:124
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:983
+Total Time0.061466
+frameidx:24
+calcGradient:
+totalGradPoint:3137
+acceptPtrNum:101
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:978
+Total Time0.071888
+frameidx:25
+calcGradient:
+totalGradPoint:2809
+acceptPtrNum:87
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1007
+Total Time0.071708
+frameidx:26
+calcGradient:
+totalGradPoint:2947
+acceptPtrNum:92
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1003
+Total Time0.07298
+frameidx:27
+calcGradient:
+totalGradPoint:2996
+acceptPtrNum:100
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1007
+Total Time0.07131
+frameidx:28
+calcGradient:
+totalGradPoint:3024
+acceptPtrNum:108
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1010
+Total Time0.071892
+frameidx:29
+calcGradient:
+totalGradPoint:2940
+acceptPtrNum:105
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1011
+Total Time0.071907
+frameidx:30
+calcGradient:
+totalGradPoint:2832
+acceptPtrNum:96
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:959
+Total Time0.063734
+frameidx:31
+calcGradient:
+totalGradPoint:1711
+acceptPtrNum:55
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:997
+Total ReGroup Time7e-06
+match Time:0.000742
+Total Time0.068845
+frameidx:32
+calcGradient:
+totalGradPoint:1397
+acceptPtrNum:46
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:989
+Total ReGroup Time0.029556
+match Time:0.000833
+Total Time0.100179
+frameidx:33
+calcGradient:
+totalGradPoint:622
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:979
+Total ReGroup Time0.005129
+match Time:0.000814
+Total Time0.074101
+frameidx:34
+calcGradient:
+totalGradPoint:168
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:991
+Total ReGroup Time0.012663
+match Time:0.000878
+Total Time0.075601
+frameidx:35
+calcGradient:
+totalGradPoint:256
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:1006
+Total ReGroup Time0.009194
+match Time:0.000848
+Total Time0.076156
+frameidx:36
+calcGradient:
+totalGradPoint:209
+acceptPtrNum:24
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:997
+Total ReGroup Time0.00644
+match Time:0.000853
+Total Time0.072791
+frameidx:37
+calcGradient:
+totalGradPoint:98
+acceptPtrNum:15
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.006333
+match Time:0.000881
+Total Time0.072369
+frameidx:38
+calcGradient:
+totalGradPoint:115
+acceptPtrNum:17
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:969
+Total ReGroup Time0.007899
+match Time:0.000916
+Total Time0.080253
+frameidx:39
+calcGradient:
+totalGradPoint:139
+acceptPtrNum:18
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:961
+Total ReGroup Time0.005907
+match Time:0.000893
+Total Time0.078809
+frameidx:40
+calcGradient:
+totalGradPoint:52
+acceptPtrNum:13
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:989
+Total ReGroup Time0.006273
+match Time:0.00088
+Total Time0.087136
+frameidx:41
+calcGradient:
+totalGradPoint:85
+acceptPtrNum:12
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:993
+Total ReGroup Time0.002875
+match Time:0.000993
+Total Time0.083832
+frameidx:42
+calcGradient:
+totalGradPoint:53
+acceptPtrNum:11
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:988
+Total ReGroup Time0.002946
+match Time:0.000878
+Total Time0.083043
+frameidx:43
+calcGradient:
+totalGradPoint:48
+acceptPtrNum:11
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:992
+Total ReGroup Time0.005681
+match Time:0.000883
+Total Time0.087457
+frameidx:44
+calcGradient:
+totalGradPoint:87
+acceptPtrNum:13
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:994
+Total ReGroup Time0.004727
+match Time:0.000909
+Total Time0.086847
+frameidx:45
+calcGradient:
+totalGradPoint:102
+acceptPtrNum:18
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:993
+Total ReGroup Time0.003203
+match Time:0.000881
+Total Time0.084184
+frameidx:46
+calcGradient:
+totalGradPoint:117
+acceptPtrNum:16
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:988
+Total ReGroup Time0.003564
+match Time:0.000908
+Total Time0.084857
+frameidx:47
+calcGradient:
+totalGradPoint:123
+acceptPtrNum:17
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:990
+Total ReGroup Time0.003063
+match Time:0.000931
+Total Time0.082898
+frameidx:48
+calcGradient:
+totalGradPoint:144
+acceptPtrNum:20
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:990
+Total ReGroup Time0.00341
+match Time:0.000889
+Total Time0.074082
+frameidx:49
+calcGradient:
+totalGradPoint:226
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:988
+Total ReGroup Time0.003232
+match Time:0.000894
+Total Time0.074564
+frameidx:50
+calcGradient:
+totalGradPoint:187
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:972
+Total ReGroup Time0.005943
+match Time:0.000897
+Total Time0.101112
+frameidx:51
+calcGradient:
+totalGradPoint:208
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:984
+Total ReGroup Time0.003054
+match Time:0.000904
+Total Time0.069972
+frameidx:52
+calcGradient:
+totalGradPoint:249
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:989
+Total ReGroup Time0.003754
+match Time:0.000905
+Total Time0.076678
+frameidx:53
+calcGradient:
+totalGradPoint:186
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:971
+Total ReGroup Time0.002986
+match Time:0.000874
+Total Time0.071113
+frameidx:54
+calcGradient:
+totalGradPoint:221
+acceptPtrNum:23
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:982
+Total ReGroup Time0.003299
+match Time:0.000947
+Total Time0.070285
+frameidx:55
+calcGradient:
+totalGradPoint:295
+acceptPtrNum:26
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:976
+Total ReGroup Time0.002985
+match Time:0.000943
+Total Time0.077837
+frameidx:56
+calcGradient:
+totalGradPoint:272
+acceptPtrNum:25
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:976
+Total ReGroup Time0.003971
+match Time:0.000941
+Total Time0.071498
+frameidx:57
+calcGradient:
+totalGradPoint:269
+acceptPtrNum:24
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:984
+Total ReGroup Time0.003909
+match Time:0.000957
+Total Time0.075601
+frameidx:58
+calcGradient:
+totalGradPoint:250
+acceptPtrNum:22
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:976
+Total ReGroup Time0.004395
+match Time:0.001022
+Total Time0.072638
+frameidx:59
+calcGradient:
+totalGradPoint:159
+acceptPtrNum:24
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:973
+Total ReGroup Time0.003643
+match Time:0.000884
+Total Time0.069734
+frameidx:60
+calcGradient:
+totalGradPoint:416
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:982
+Total ReGroup Time0.003054
+match Time:0.000929
+Total Time0.069503
+frameidx:61
+calcGradient:
+totalGradPoint:272
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:985
+Total ReGroup Time0.003248
+match Time:0.000878
+Total Time0.069408
+frameidx:62
+calcGradient:
+totalGradPoint:365
+acceptPtrNum:23
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:982
+Total ReGroup Time0.004041
+match Time:0.000956
+Total Time0.071006
+frameidx:63
+calcGradient:
+totalGradPoint:290
+acceptPtrNum:26
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:970
+Total ReGroup Time0.005051
+match Time:0.000851
+Total Time0.071711
+frameidx:64
+calcGradient:
+totalGradPoint:367
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:980
+Total ReGroup Time0.004391
+match Time:0.000914
+Total Time0.07527
+frameidx:65
+calcGradient:
+totalGradPoint:257
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:982
+Total ReGroup Time0.003498
+match Time:0.000899
+Total Time0.07526
+frameidx:66
+calcGradient:
+totalGradPoint:455
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:973
+Total ReGroup Time0.003314
+match Time:0.000896
+Total Time0.083423
+frameidx:67
+calcGradient:
+totalGradPoint:457
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:979
+Total ReGroup Time0.003232
+match Time:0.000911
+Total Time0.073992
+frameidx:68
+calcGradient:
+totalGradPoint:460
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:981
+Total ReGroup Time0.003435
+match Time:0.000984
+Total Time0.073668
+frameidx:69
+calcGradient:
+totalGradPoint:524
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:971
+Total ReGroup Time0.003005
+match Time:0.000938
+Total Time0.063422
+frameidx:70
+calcGradient:
+totalGradPoint:384
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:973
+Total ReGroup Time0.003397
+match Time:0.00092
+Total Time0.071207
+frameidx:71
+calcGradient:
+totalGradPoint:359
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:977
+Total ReGroup Time0.003072
+match Time:0.000957
+Total Time0.068772
+frameidx:72
+calcGradient:
+totalGradPoint:238
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:974
+Total ReGroup Time0.003253
+match Time:0.000905
+Total Time0.071713
+frameidx:73
+calcGradient:
+totalGradPoint:144
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:975
+Total ReGroup Time0.002985
+match Time:0.000876
+Total Time0.078708
+frameidx:74
+calcGradient:
+totalGradPoint:412
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:978
+Total ReGroup Time0.003456
+match Time:0.000903
+Total Time0.07187
+frameidx:75
+calcGradient:
+totalGradPoint:377
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:976
+Total ReGroup Time0.003595
+match Time:0.000897
+Total Time0.075507
+frameidx:76
+calcGradient:
+totalGradPoint:327
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:980
+Total ReGroup Time0.003097
+match Time:0.000901
+Total Time0.076846
+frameidx:77
+calcGradient:
+totalGradPoint:285
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:982
+Total ReGroup Time0.002976
+match Time:0.000995
+Total Time0.075875
+frameidx:78
+calcGradient:
+totalGradPoint:271
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:972
+Total ReGroup Time0.003335
+match Time:0.000896
+Total Time0.075457
+frameidx:79
+calcGradient:
+totalGradPoint:469
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:966
+Total ReGroup Time0.002917
+match Time:0.000887
+Total Time0.070527
+frameidx:80
+calcGradient:
+totalGradPoint:490
+acceptPtrNum:50
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:962
+Total ReGroup Time0.00658
+match Time:0.001825
+Total Time0.101719
+frameidx:81
+calcGradient:
+totalGradPoint:299
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:972
+Total ReGroup Time0.0035
+match Time:0.000929
+Total Time0.082669
+frameidx:82
+calcGradient:
+totalGradPoint:203
+acceptPtrNum:23
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:967
+Total ReGroup Time0.003346
+match Time:0.000918
+Total Time0.07175
+frameidx:83
+calcGradient:
+totalGradPoint:195
+acceptPtrNum:25
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:970
+Total ReGroup Time0.004499
+match Time:0.000903
+Total Time0.073781
+frameidx:84
+calcGradient:
+totalGradPoint:109
+acceptPtrNum:20
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:977
+Total ReGroup Time0.00693
+match Time:0.000915
+Total Time0.094224
+frameidx:85
+calcGradient:
+totalGradPoint:432
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:976
+Total ReGroup Time0.003973
+match Time:0.000912
+Total Time0.106148
+frameidx:86
+calcGradient:
+totalGradPoint:311
+acceptPtrNum:23
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:968
+Total ReGroup Time0.005372
+match Time:0.000933
+Total Time0.092516
+frameidx:87
+calcGradient:
+totalGradPoint:346
+acceptPtrNum:22
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:980
+Total ReGroup Time0.003576
+match Time:0.000915
+Total Time0.081682
+frameidx:88
+calcGradient:
+totalGradPoint:248
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:972
+Total ReGroup Time0.017502
+match Time:0.000951
+Total Time0.085625
+frameidx:89
+calcGradient:
+totalGradPoint:365
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:974
+Total ReGroup Time0.004013
+match Time:0.000924
+Total Time0.092603
+frameidx:90
+calcGradient:
+totalGradPoint:249
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:973
+Total ReGroup Time0.004362
+match Time:0.00097
+Total Time0.090514
+frameidx:91
+calcGradient:
+totalGradPoint:323
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:972
+Total ReGroup Time0.003405
+match Time:0.00099
+Total Time0.090691
+frameidx:92
+calcGradient:
+totalGradPoint:207
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:977
+Total ReGroup Time0.003946
+match Time:0.000926
+Total Time0.091028
+frameidx:93
+calcGradient:
+totalGradPoint:200
+acceptPtrNum:22
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:978
+Total ReGroup Time0.003356
+match Time:0.000924
+Total Time0.092062
+frameidx:94
+calcGradient:
+totalGradPoint:283
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:972
+Total ReGroup Time0.003665
+match Time:0.000969
+Total Time0.092229
+frameidx:95
+calcGradient:
+totalGradPoint:151
+acceptPtrNum:25
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:968
+Total ReGroup Time0.004207
+match Time:0.000928
+Total Time0.084232
+frameidx:96
+calcGradient:
+totalGradPoint:217
+acceptPtrNum:23
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:968
+Total ReGroup Time0.003791
+match Time:0.00094
+Total Time0.088531
+frameidx:97
+calcGradient:
+totalGradPoint:214
+acceptPtrNum:25
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:971
+Total ReGroup Time0.00355
+match Time:0.000911
+Total Time0.081505
+frameidx:98
+calcGradient:
+totalGradPoint:305
+acceptPtrNum:25
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:965
+Total ReGroup Time0.003652
+match Time:0.000917
+Total Time0.07835
+frameidx:99
+calcGradient:
+totalGradPoint:209
+acceptPtrNum:24
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:969
+Total ReGroup Time0.003608
+match Time:0.00096
+Total Time0.073663
+frameidx:100
+calcGradient:
+totalGradPoint:279
+acceptPtrNum:24
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:966
+Total ReGroup Time0.003544
+match Time:0.001246
+Total Time0.072865
+frameidx:101
+calcGradient:
+totalGradPoint:338
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:966
+Total ReGroup Time0.003961
+match Time:0.001017
+Total Time0.096469
+frameidx:102
+calcGradient:
+totalGradPoint:177
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:960
+Total ReGroup Time0.003615
+match Time:0.000905
+Total Time0.076782
+frameidx:103
+calcGradient:
+totalGradPoint:174
+acceptPtrNum:24
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:971
+Total ReGroup Time0.00342
+match Time:0.000913
+Total Time0.079446
+frameidx:104
+calcGradient:
+totalGradPoint:123
+acceptPtrNum:19
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:964
+Total ReGroup Time0.003396
+match Time:0.000948
+Total Time0.090394
+frameidx:105
+calcGradient:
+totalGradPoint:242
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:968
+Total ReGroup Time0.003289
+match Time:0.000911
+Total Time0.090955
+frameidx:106
+calcGradient:
+totalGradPoint:201
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:969
+Total ReGroup Time0.003768
+match Time:0.000933
+Total Time0.092646
+frameidx:107
+calcGradient:
+totalGradPoint:172
+acceptPtrNum:25
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:965
+Total ReGroup Time0.003658
+match Time:0.000947
+Total Time0.091985
+frameidx:108
+calcGradient:
+totalGradPoint:491
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:963
+Total ReGroup Time0.003433
+match Time:0.000942
+Total Time0.072183
+frameidx:109
+calcGradient:
+totalGradPoint:386
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:965
+Total ReGroup Time0.003349
+match Time:0.000988
+Total Time0.081625
+frameidx:110
+calcGradient:
+totalGradPoint:354
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:968
+Total ReGroup Time0.007751
+match Time:0.001966
+Total Time0.114327
+frameidx:111
+calcGradient:
+totalGradPoint:141
+acceptPtrNum:23
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:966
+Total ReGroup Time0.00343
+match Time:0.001015
+Total Time0.088067
+frameidx:112
+calcGradient:
+totalGradPoint:304
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:961
+Total ReGroup Time0.003368
+match Time:0.001015
+Total Time0.090758
+frameidx:113
+calcGradient:
+totalGradPoint:437
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:963
+Total ReGroup Time0.003722
+match Time:0.000928
+Total Time0.077083
+frameidx:114
+calcGradient:
+totalGradPoint:774
+acceptPtrNum:60
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.003598
+match Time:0.000997
+Total Time0.075333
+frameidx:115
+calcGradient:
+totalGradPoint:343
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:960
+Total ReGroup Time0.003571
+match Time:0.00093
+Total Time0.082652
+frameidx:116
+calcGradient:
+totalGradPoint:225
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:958
+Total ReGroup Time0.003616
+match Time:0.00105
+Total Time0.072452
+frameidx:117
+calcGradient:
+totalGradPoint:340
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:965
+Total ReGroup Time0.003427
+match Time:0.000949
+Total Time0.082692
+frameidx:118
+calcGradient:
+totalGradPoint:240
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:964
+Total ReGroup Time0.003526
+match Time:0.000939
+Total Time0.075155
+frameidx:119
+calcGradient:
+totalGradPoint:441
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:964
+Total ReGroup Time0.003307
+match Time:0.000886
+Total Time0.073592
+frameidx:120
+calcGradient:
+totalGradPoint:679
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:965
+Total ReGroup Time0.003405
+match Time:0.000887
+Total Time0.073083
+frameidx:121
+calcGradient:
+totalGradPoint:279
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:960
+Total ReGroup Time0.003644
+match Time:0.000957
+Total Time0.094809
+frameidx:122
+calcGradient:
+totalGradPoint:288
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:961
+Total ReGroup Time0.003537
+match Time:0.001016
+Total Time0.082946
+frameidx:123
+calcGradient:
+totalGradPoint:230
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:962
+Total ReGroup Time0.003691
+match Time:0.000957
+Total Time0.085847
+frameidx:124
+calcGradient:
+totalGradPoint:276
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.003396
+match Time:0.000949
+Total Time0.08091
+frameidx:125
+calcGradient:
+totalGradPoint:332
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:961
+Total ReGroup Time0.003812
+match Time:0.000945
+Total Time0.073441
+frameidx:126
+calcGradient:
+totalGradPoint:318
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:961
+Total ReGroup Time0.003749
+match Time:0.001227
+Total Time0.075672
+frameidx:127
+calcGradient:
+totalGradPoint:270
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:958
+Total ReGroup Time0.003332
+match Time:0.001099
+Total Time0.083335
+frameidx:128
+calcGradient:
+totalGradPoint:315
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:961
+Total ReGroup Time0.004029
+match Time:0.001003
+Total Time0.078401
+frameidx:129
+calcGradient:
+totalGradPoint:400
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:965
+Total ReGroup Time0.003669
+match Time:0.001062
+Total Time0.082019
+frameidx:130
+calcGradient:
+totalGradPoint:237
+acceptPtrNum:41
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:958
+Total ReGroup Time0.003723
+match Time:0.00097
+Total Time0.088962
+frameidx:131
+calcGradient:
+totalGradPoint:343
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:959
+Total ReGroup Time0.00383
+match Time:0.000931
+Total Time0.081324
+frameidx:132
+calcGradient:
+totalGradPoint:249
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:957
+Total ReGroup Time0.003551
+match Time:0.001038
+Total Time0.080082
+frameidx:133
+calcGradient:
+totalGradPoint:482
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:962
+Total ReGroup Time0.003656
+match Time:0.000924
+Total Time0.072637
+frameidx:134
+calcGradient:
+totalGradPoint:265
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:954
+Total ReGroup Time0.00354
+match Time:0.000928
+Total Time0.073703
+frameidx:135
+calcGradient:
+totalGradPoint:355
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.004015
+match Time:0.000943
+Total Time0.071402
+frameidx:136
+calcGradient:
+totalGradPoint:321
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:959
+Total ReGroup Time0.003831
+match Time:0.000942
+Total Time0.07266
+frameidx:137
+calcGradient:
+totalGradPoint:383
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:958
+Total ReGroup Time0.003822
+match Time:0.000966
+Total Time0.07309
+frameidx:138
+calcGradient:
+totalGradPoint:536
+acceptPtrNum:41
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:953
+Total ReGroup Time0.004064
+match Time:0.000909
+Total Time0.069384
+frameidx:139
+calcGradient:
+totalGradPoint:248
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.003768
+match Time:0.000936
+Total Time0.071576
+frameidx:140
+calcGradient:
+totalGradPoint:296
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.007363
+match Time:0.001949
+Total Time0.104277
+frameidx:141
+calcGradient:
+totalGradPoint:337
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.004046
+match Time:0.000919
+Total Time0.067453
+frameidx:142
+calcGradient:
+totalGradPoint:478
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:953
+Total ReGroup Time0.003432
+match Time:0.000933
+Total Time0.072834
+frameidx:143
+calcGradient:
+totalGradPoint:389
+acceptPtrNum:48
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.004091
+match Time:0.000919
+Total Time0.071436
+frameidx:144
+calcGradient:
+totalGradPoint:649
+acceptPtrNum:51
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:954
+Total ReGroup Time0.00373
+match Time:0.000951
+Total Time0.071319
+frameidx:145
+calcGradient:
+totalGradPoint:423
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.003744
+match Time:0.000934
+Total Time0.080707
+frameidx:146
+calcGradient:
+totalGradPoint:513
+acceptPtrNum:48
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:953
+Total ReGroup Time0.003937
+match Time:0.000932
+Total Time0.071336
+frameidx:147
+calcGradient:
+totalGradPoint:292
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:953
+Total ReGroup Time0.003688
+match Time:0.000939
+Total Time0.069728
+frameidx:148
+calcGradient:
+totalGradPoint:463
+acceptPtrNum:48
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.003686
+match Time:0.000933
+Total Time0.071992
+frameidx:149
+calcGradient:
+totalGradPoint:247
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:957
+Total ReGroup Time0.003479
+match Time:0.000912
+Total Time0.07998
+frameidx:150
+calcGradient:
+totalGradPoint:236
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.003971
+match Time:0.001085
+Total Time0.073391
+frameidx:151
+calcGradient:
+totalGradPoint:282
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.003582
+match Time:0.000965
+Total Time0.073146
+frameidx:152
+calcGradient:
+totalGradPoint:187
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:958
+Total ReGroup Time0.003542
+match Time:0.000998
+Total Time0.074477
+frameidx:153
+calcGradient:
+totalGradPoint:306
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.003796
+match Time:0.000955
+Total Time0.080925
+frameidx:154
+calcGradient:
+totalGradPoint:189
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.003508
+match Time:0.000934
+Total Time0.07073
+frameidx:155
+calcGradient:
+totalGradPoint:293
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:961
+Total ReGroup Time0.003409
+match Time:0.000938
+Total Time0.081671
+frameidx:156
+calcGradient:
+totalGradPoint:135
+acceptPtrNum:18
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:958
+Total ReGroup Time0.003889
+match Time:0.000926
+Total Time0.081095
+frameidx:157
+calcGradient:
+totalGradPoint:157
+acceptPtrNum:25
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:959
+Total ReGroup Time0.003517
+match Time:0.000958
+Total Time0.082863
+frameidx:158
+calcGradient:
+totalGradPoint:416
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:958
+Total ReGroup Time0.003273
+match Time:0.000913
+Total Time0.071925
+frameidx:159
+calcGradient:
+totalGradPoint:121
+acceptPtrNum:24
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:958
+Total ReGroup Time0.003687
+match Time:0.000922
+Total Time0.073153
+frameidx:160
+calcGradient:
+totalGradPoint:200
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:957
+Total ReGroup Time0.0034
+match Time:0.000946
+Total Time0.073229
+frameidx:161
+calcGradient:
+totalGradPoint:166
+acceptPtrNum:25
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:959
+Total ReGroup Time0.003311
+match Time:0.000987
+Total Time0.079545
+frameidx:162
+calcGradient:
+totalGradPoint:442
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.003454
+match Time:0.00093
+Total Time0.079179
+frameidx:163
+calcGradient:
+totalGradPoint:390
+acceptPtrNum:41
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:961
+Total ReGroup Time0.003352
+match Time:0.00092
+Total Time0.081777
+frameidx:164
+calcGradient:
+totalGradPoint:678
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:959
+Total ReGroup Time0.003746
+match Time:0.000901
+Total Time0.08148
+frameidx:165
+calcGradient:
+totalGradPoint:401
+acceptPtrNum:24
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:959
+Total ReGroup Time0.00363
+match Time:0.000897
+Total Time0.079234
+frameidx:166
+calcGradient:
+totalGradPoint:319
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:953
+Total ReGroup Time0.003896
+match Time:0.000964
+Total Time0.072603
+frameidx:167
+calcGradient:
+totalGradPoint:348
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:950
+Total ReGroup Time0.003489
+match Time:0.000914
+Total Time0.070635
+frameidx:168
+calcGradient:
+totalGradPoint:530
+acceptPtrNum:48
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:952
+Total ReGroup Time0.003588
+match Time:0.000936
+Total Time0.071381
+frameidx:169
+calcGradient:
+totalGradPoint:378
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.003248
+match Time:0.000966
+Total Time0.083849
+frameidx:170
+calcGradient:
+totalGradPoint:247
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.006758
+match Time:0.00183
+Total Time0.104275
+frameidx:171
+calcGradient:
+totalGradPoint:732
+acceptPtrNum:49
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:952
+Total ReGroup Time0.003402
+match Time:0.000916
+Total Time0.073548
+frameidx:172
+calcGradient:
+totalGradPoint:641
+acceptPtrNum:46
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.003452
+match Time:0.000923
+Total Time0.071328
+frameidx:173
+calcGradient:
+totalGradPoint:492
+acceptPtrNum:52
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.003781
+match Time:0.000923
+Total Time0.083991
+frameidx:174
+calcGradient:
+totalGradPoint:683
+acceptPtrNum:45
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.00405
+match Time:0.001006
+Total Time0.073924
+frameidx:175
+calcGradient:
+totalGradPoint:373
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:954
+Total ReGroup Time0.003734
+match Time:0.00093
+Total Time0.074403
+frameidx:176
+calcGradient:
+totalGradPoint:419
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.004223
+match Time:0.000996
+Total Time0.073367
+frameidx:177
+calcGradient:
+totalGradPoint:478
+acceptPtrNum:49
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003741
+match Time:0.000952
+Total Time0.080666
+frameidx:178
+calcGradient:
+totalGradPoint:431
+acceptPtrNum:44
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003828
+match Time:0.000902
+Total Time0.077257
+frameidx:179
+calcGradient:
+totalGradPoint:358
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:950
+Total ReGroup Time0.003826
+match Time:0.00093
+Total Time0.07946
+frameidx:180
+calcGradient:
+totalGradPoint:413
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.003816
+match Time:0.000936
+Total Time0.075471
+frameidx:181
+calcGradient:
+totalGradPoint:413
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.003657
+match Time:0.000929
+Total Time0.083363
+frameidx:182
+calcGradient:
+totalGradPoint:737
+acceptPtrNum:61
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.003562
+match Time:0.000942
+Total Time0.082772
+frameidx:183
+calcGradient:
+totalGradPoint:275
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003681
+match Time:0.000941
+Total Time0.085652
+frameidx:184
+calcGradient:
+totalGradPoint:276
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:953
+Total ReGroup Time0.003651
+match Time:0.00096
+Total Time0.083868
+frameidx:185
+calcGradient:
+totalGradPoint:324
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.003667
+match Time:0.000952
+Total Time0.084328
+frameidx:186
+calcGradient:
+totalGradPoint:261
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:953
+Total ReGroup Time0.004127
+match Time:0.000959
+Total Time0.072061
+frameidx:187
+calcGradient:
+totalGradPoint:425
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:957
+Total ReGroup Time0.003769
+match Time:0.000934
+Total Time0.082256
+frameidx:188
+calcGradient:
+totalGradPoint:494
+acceptPtrNum:44
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:960
+Total ReGroup Time0.004099
+match Time:0.00098
+Total Time0.073337
+frameidx:189
+calcGradient:
+totalGradPoint:488
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:957
+Total ReGroup Time0.003687
+match Time:0.000903
+Total Time0.073254
+frameidx:190
+calcGradient:
+totalGradPoint:409
+acceptPtrNum:44
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:957
+Total ReGroup Time0.004024
+match Time:0.000929
+Total Time0.082025
+frameidx:191
+calcGradient:
+totalGradPoint:521
+acceptPtrNum:51
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:954
+Total ReGroup Time0.003904
+match Time:0.000919
+Total Time0.071781
+frameidx:192
+calcGradient:
+totalGradPoint:508
+acceptPtrNum:41
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.003655
+match Time:0.000925
+Total Time0.0713
+frameidx:193
+calcGradient:
+totalGradPoint:562
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003562
+match Time:0.000921
+Total Time0.080517
+frameidx:194
+calcGradient:
+totalGradPoint:484
+acceptPtrNum:44
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003805
+match Time:0.000929
+Total Time0.073134
+frameidx:195
+calcGradient:
+totalGradPoint:213
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.003652
+match Time:0.000924
+Total Time0.080298
+frameidx:196
+calcGradient:
+totalGradPoint:357
+acceptPtrNum:41
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003826
+match Time:0.000926
+Total Time0.074155
+frameidx:197
+calcGradient:
+totalGradPoint:497
+acceptPtrNum:53
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003751
+match Time:0.000966
+Total Time0.083824
+frameidx:198
+calcGradient:
+totalGradPoint:363
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.003708
+match Time:0.000937
+Total Time0.081612
+frameidx:199
+calcGradient:
+totalGradPoint:409
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.003719
+match Time:0.000917
+Total Time0.094459
+frameidx:200
+calcGradient:
+totalGradPoint:463
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:942
+Total ReGroup Time0.00732
+match Time:0.001907
+Total Time0.101689
+frameidx:201
+calcGradient:
+totalGradPoint:563
+acceptPtrNum:45
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.003853
+match Time:0.000929
+Total Time0.073727
+frameidx:202
+calcGradient:
+totalGradPoint:546
+acceptPtrNum:44
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:942
+Total ReGroup Time0.004103
+match Time:0.001062
+Total Time0.073449
+frameidx:203
+calcGradient:
+totalGradPoint:537
+acceptPtrNum:44
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.003662
+match Time:0.000949
+Total Time0.073246
+frameidx:204
+calcGradient:
+totalGradPoint:736
+acceptPtrNum:53
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:936
+Total ReGroup Time0.003989
+match Time:0.000934
+Total Time0.073642
+frameidx:205
+calcGradient:
+totalGradPoint:442
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.003721
+match Time:0.000925
+Total Time0.093036
+frameidx:206
+calcGradient:
+totalGradPoint:503
+acceptPtrNum:58
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.003733
+match Time:0.000923
+Total Time0.095675
+frameidx:207
+calcGradient:
+totalGradPoint:433
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.003725
+match Time:0.000956
+Total Time0.072854
+frameidx:208
+calcGradient:
+totalGradPoint:252
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.004128
+match Time:0.000907
+Total Time0.072661
+frameidx:209
+calcGradient:
+totalGradPoint:397
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003625
+match Time:0.000943
+Total Time0.08335
+frameidx:210
+calcGradient:
+totalGradPoint:324
+acceptPtrNum:41
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:954
+Total ReGroup Time0.003705
+match Time:0.000918
+Total Time0.081399
+frameidx:211
+calcGradient:
+totalGradPoint:547
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.00393
+match Time:0.00091
+Total Time0.083342
+frameidx:212
+calcGradient:
+totalGradPoint:458
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.004122
+match Time:0.000921
+Total Time0.08204
+frameidx:213
+calcGradient:
+totalGradPoint:484
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.003698
+match Time:0.000905
+Total Time0.082029
+frameidx:214
+calcGradient:
+totalGradPoint:503
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003977
+match Time:0.00101
+Total Time0.071354
+frameidx:215
+calcGradient:
+totalGradPoint:484
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.003677
+match Time:0.000953
+Total Time0.073501
+frameidx:216
+calcGradient:
+totalGradPoint:296
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003756
+match Time:0.000932
+Total Time0.081382
+frameidx:217
+calcGradient:
+totalGradPoint:498
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:952
+Total ReGroup Time0.004226
+match Time:0.000922
+Total Time0.079854
+frameidx:218
+calcGradient:
+totalGradPoint:444
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003725
+match Time:0.000872
+Total Time0.073037
+frameidx:219
+calcGradient:
+totalGradPoint:524
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003866
+match Time:0.000976
+Total Time0.091632
+frameidx:220
+calcGradient:
+totalGradPoint:891
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003687
+match Time:0.000923
+Total Time0.092019
+frameidx:221
+calcGradient:
+totalGradPoint:613
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003628
+match Time:0.000927
+Total Time0.09335
+frameidx:222
+calcGradient:
+totalGradPoint:520
+acceptPtrNum:44
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.00382
+match Time:0.000925
+Total Time0.081135
+frameidx:223
+calcGradient:
+totalGradPoint:578
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.00346
+match Time:0.000891
+Total Time0.093121
+frameidx:224
+calcGradient:
+totalGradPoint:739
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.003548
+match Time:0.000915
+Total Time0.092626
+frameidx:225
+calcGradient:
+totalGradPoint:363
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.004027
+match Time:0.000969
+Total Time0.091976
+frameidx:226
+calcGradient:
+totalGradPoint:572
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:953
+Total ReGroup Time0.003601
+match Time:0.000924
+Total Time0.094153
+frameidx:227
+calcGradient:
+totalGradPoint:426
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:950
+Total ReGroup Time0.003555
+match Time:0.000935
+Total Time0.09211
+frameidx:228
+calcGradient:
+totalGradPoint:632
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.003748
+match Time:0.001013
+Total Time0.09288
+frameidx:229
+calcGradient:
+totalGradPoint:466
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.004103
+match Time:0.000967
+Total Time0.092778
+frameidx:230
+calcGradient:
+totalGradPoint:610
+acceptPtrNum:46
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.007457
+match Time:0.001967
+Total Time0.125914
+frameidx:231
+calcGradient:
+totalGradPoint:404
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.004036
+match Time:0.000954
+Total Time0.074698
+frameidx:232
+calcGradient:
+totalGradPoint:411
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003603
+match Time:0.001053
+Total Time0.083886
+frameidx:233
+calcGradient:
+totalGradPoint:346
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003693
+match Time:0.00094
+Total Time0.0824
+frameidx:234
+calcGradient:
+totalGradPoint:279
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003635
+match Time:0.000929
+Total Time0.080949
+frameidx:235
+calcGradient:
+totalGradPoint:394
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:952
+Total ReGroup Time0.003775
+match Time:0.000999
+Total Time0.081037
+frameidx:236
+calcGradient:
+totalGradPoint:226
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:952
+Total ReGroup Time0.003775
+match Time:0.000934
+Total Time0.075025
+frameidx:237
+calcGradient:
+totalGradPoint:368
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.003755
+match Time:0.001072
+Total Time0.071229
+frameidx:238
+calcGradient:
+totalGradPoint:603
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003635
+match Time:0.000954
+Total Time0.074626
+frameidx:239
+calcGradient:
+totalGradPoint:810
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:952
+Total ReGroup Time0.003959
+match Time:0.000915
+Total Time0.070802
+frameidx:240
+calcGradient:
+totalGradPoint:378
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:952
+Total ReGroup Time0.003983
+match Time:0.000951
+Total Time0.075399
+frameidx:241
+calcGradient:
+totalGradPoint:428
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003511
+match Time:0.000925
+Total Time0.074996
+frameidx:242
+calcGradient:
+totalGradPoint:411
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:950
+Total ReGroup Time0.003376
+match Time:0.000912
+Total Time0.07847
+frameidx:243
+calcGradient:
+totalGradPoint:345
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.00337
+match Time:0.000979
+Total Time0.080497
+frameidx:244
+calcGradient:
+totalGradPoint:557
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:953
+Total ReGroup Time0.003302
+match Time:0.000923
+Total Time0.08924
+frameidx:245
+calcGradient:
+totalGradPoint:369
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:954
+Total ReGroup Time0.003297
+match Time:0.000917
+Total Time0.080037
+frameidx:246
+calcGradient:
+totalGradPoint:225
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.003637
+match Time:0.000926
+Total Time0.080174
+frameidx:247
+calcGradient:
+totalGradPoint:326
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:950
+Total ReGroup Time0.003229
+match Time:0.000927
+Total Time0.072131
+frameidx:248
+calcGradient:
+totalGradPoint:217
+acceptPtrNum:26
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:952
+Total ReGroup Time0.003163
+match Time:0.000966
+Total Time0.082215
+frameidx:249
+calcGradient:
+totalGradPoint:229
+acceptPtrNum:20
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:953
+Total ReGroup Time0.003228
+match Time:0.000928
+Total Time0.071008
+frameidx:250
+calcGradient:
+totalGradPoint:223
+acceptPtrNum:26
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:954
+Total ReGroup Time0.003222
+match Time:0.000915
+Total Time0.071238
+frameidx:251
+calcGradient:
+totalGradPoint:235
+acceptPtrNum:25
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:954
+Total ReGroup Time0.003271
+match Time:0.000956
+Total Time0.069517
+frameidx:252
+calcGradient:
+totalGradPoint:268
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:952
+Total ReGroup Time0.003429
+match Time:0.000923
+Total Time0.078459
+frameidx:253
+calcGradient:
+totalGradPoint:249
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.003235
+match Time:0.000914
+Total Time0.065214
+frameidx:254
+calcGradient:
+totalGradPoint:680
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.003327
+match Time:0.000907
+Total Time0.06944
+frameidx:255
+calcGradient:
+totalGradPoint:497
+acceptPtrNum:41
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:953
+Total ReGroup Time0.003246
+match Time:0.000912
+Total Time0.07738
+frameidx:256
+calcGradient:
+totalGradPoint:428
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.003288
+match Time:0.000957
+Total Time0.080182
+frameidx:257
+calcGradient:
+totalGradPoint:137
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.00324
+match Time:0.000919
+Total Time0.068197
+frameidx:258
+calcGradient:
+totalGradPoint:196
+acceptPtrNum:24
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003738
+match Time:0.000936
+Total Time0.071439
+frameidx:259
+calcGradient:
+totalGradPoint:416
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.00343
+match Time:0.000904
+Total Time0.079601
+frameidx:260
+calcGradient:
+totalGradPoint:347
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:952
+Total ReGroup Time0.006656
+match Time:0.001491
+Total Time0.104027
+frameidx:261
+calcGradient:
+totalGradPoint:404
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.003387
+match Time:0.000923
+Total Time0.067696
+frameidx:262
+calcGradient:
+totalGradPoint:211
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.003397
+match Time:0.000914
+Total Time0.07313
+frameidx:263
+calcGradient:
+totalGradPoint:350
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:954
+Total ReGroup Time0.003593
+match Time:0.000888
+Total Time0.07718
+frameidx:264
+calcGradient:
+totalGradPoint:260
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.003428
+match Time:0.000923
+Total Time0.069332
+frameidx:265
+calcGradient:
+totalGradPoint:225
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.003362
+match Time:0.000922
+Total Time0.078452
+frameidx:266
+calcGradient:
+totalGradPoint:668
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.003399
+match Time:0.000976
+Total Time0.088394
+frameidx:267
+calcGradient:
+totalGradPoint:183
+acceptPtrNum:25
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.003445
+match Time:0.000969
+Total Time0.08633
+frameidx:268
+calcGradient:
+totalGradPoint:266
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.003364
+match Time:0.000909
+Total Time0.087014
+frameidx:269
+calcGradient:
+totalGradPoint:303
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.003443
+match Time:0.00096
+Total Time0.089161
+frameidx:270
+calcGradient:
+totalGradPoint:581
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.003497
+match Time:0.000948
+Total Time0.086971
+frameidx:271
+calcGradient:
+totalGradPoint:249
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:954
+Total ReGroup Time0.003389
+match Time:0.001073
+Total Time0.088877
+frameidx:272
+calcGradient:
+totalGradPoint:322
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.003511
+match Time:0.001258
+Total Time0.083766
+frameidx:273
+calcGradient:
+totalGradPoint:329
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.003449
+match Time:0.000915
+Total Time0.078371
+frameidx:274
+calcGradient:
+totalGradPoint:114
+acceptPtrNum:14
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.003467
+match Time:0.000922
+Total Time0.06736
+frameidx:275
+calcGradient:
+totalGradPoint:217
+acceptPtrNum:19
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.003406
+match Time:0.001005
+Total Time0.065585
+frameidx:276
+calcGradient:
+totalGradPoint:153
+acceptPtrNum:26
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.003403
+match Time:0.000927
+Total Time0.065797
+frameidx:277
+calcGradient:
+totalGradPoint:204
+acceptPtrNum:23
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003738
+match Time:0.000918
+Total Time0.080547
+frameidx:278
+calcGradient:
+totalGradPoint:283
+acceptPtrNum:24
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:954
+Total ReGroup Time0.003515
+match Time:0.00091
+Total Time0.062936
+frameidx:279
+calcGradient:
+totalGradPoint:423
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:950
+Total ReGroup Time0.003522
+match Time:0.000962
+Total Time0.069073
+frameidx:280
+calcGradient:
+totalGradPoint:311
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:956
+Total ReGroup Time0.003457
+match Time:0.000929
+Total Time0.078407
+frameidx:281
+calcGradient:
+totalGradPoint:308
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:954
+Total ReGroup Time0.003641
+match Time:0.000951
+Total Time0.069991
+frameidx:282
+calcGradient:
+totalGradPoint:484
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:955
+Total ReGroup Time0.003683
+match Time:0.000937
+Total Time0.088636
+frameidx:283
+calcGradient:
+totalGradPoint:265
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.003757
+match Time:0.001035
+Total Time0.070981
+frameidx:284
+calcGradient:
+totalGradPoint:397
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:952
+Total ReGroup Time0.003687
+match Time:0.000931
+Total Time0.090235
+frameidx:285
+calcGradient:
+totalGradPoint:253
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:952
+Total ReGroup Time0.003873
+match Time:0.001001
+Total Time0.07999
+frameidx:286
+calcGradient:
+totalGradPoint:200
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003735
+match Time:0.000924
+Total Time0.066562
+frameidx:287
+calcGradient:
+totalGradPoint:662
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:951
+Total ReGroup Time0.003705
+match Time:0.000923
+Total Time0.064759
+frameidx:288
+calcGradient:
+totalGradPoint:312
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003578
+match Time:0.000926
+Total Time0.066863
+frameidx:289
+calcGradient:
+totalGradPoint:389
+acceptPtrNum:44
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003577
+match Time:0.000929
+Total Time0.070141
+frameidx:290
+calcGradient:
+totalGradPoint:592
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003854
+match Time:0.000944
+Total Time0.101405
+frameidx:291
+calcGradient:
+totalGradPoint:322
+acceptPtrNum:46
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:949
+Total ReGroup Time0.003754
+match Time:0.000935
+Total Time0.066533
+frameidx:292
+calcGradient:
+totalGradPoint:535
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003923
+match Time:0.001016
+Total Time0.066847
+frameidx:293
+calcGradient:
+totalGradPoint:384
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003547
+match Time:0.000964
+Total Time0.078319
+frameidx:294
+calcGradient:
+totalGradPoint:360
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:940
+Total ReGroup Time0.003757
+match Time:0.000979
+Total Time0.083963
+frameidx:295
+calcGradient:
+totalGradPoint:195
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:940
+Total ReGroup Time0.004037
+match Time:0.000937
+Total Time0.077797
+frameidx:296
+calcGradient:
+totalGradPoint:447
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003571
+match Time:0.001029
+Total Time0.066194
+frameidx:297
+calcGradient:
+totalGradPoint:390
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003433
+match Time:0.000943
+Total Time0.076027
+frameidx:298
+calcGradient:
+totalGradPoint:180
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.004349
+match Time:0.00094
+Total Time0.078494
+frameidx:299
+calcGradient:
+totalGradPoint:228
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003592
+match Time:0.000995
+Total Time0.066007
+frameidx:300
+calcGradient:
+totalGradPoint:416
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.003446
+match Time:0.000948
+Total Time0.065157
+frameidx:301
+calcGradient:
+totalGradPoint:279
+acceptPtrNum:24
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.00357
+match Time:0.000959
+Total Time0.078268
+frameidx:302
+calcGradient:
+totalGradPoint:482
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003843
+match Time:0.000967
+Total Time0.067031
+frameidx:303
+calcGradient:
+totalGradPoint:422
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003813
+match Time:0.000937
+Total Time0.071972
+frameidx:304
+calcGradient:
+totalGradPoint:295
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003652
+match Time:0.000936
+Total Time0.066013
+frameidx:305
+calcGradient:
+totalGradPoint:243
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:940
+Total ReGroup Time0.003897
+match Time:0.000956
+Total Time0.067078
+frameidx:306
+calcGradient:
+totalGradPoint:281
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003491
+match Time:0.00103
+Total Time0.067021
+frameidx:307
+calcGradient:
+totalGradPoint:355
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003482
+match Time:0.000914
+Total Time0.068892
+frameidx:308
+calcGradient:
+totalGradPoint:366
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003899
+match Time:0.000938
+Total Time0.065135
+frameidx:309
+calcGradient:
+totalGradPoint:591
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003396
+match Time:0.000982
+Total Time0.064035
+frameidx:310
+calcGradient:
+totalGradPoint:273
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003412
+match Time:0.000911
+Total Time0.068628
+frameidx:311
+calcGradient:
+totalGradPoint:294
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.003289
+match Time:0.000927
+Total Time0.070824
+frameidx:312
+calcGradient:
+totalGradPoint:281
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003716
+match Time:0.000926
+Total Time0.06624
+frameidx:313
+calcGradient:
+totalGradPoint:372
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003636
+match Time:0.000952
+Total Time0.071119
+frameidx:314
+calcGradient:
+totalGradPoint:511
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:942
+Total ReGroup Time0.003514
+match Time:0.000981
+Total Time0.064301
+frameidx:315
+calcGradient:
+totalGradPoint:432
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.003932
+match Time:0.000964
+Total Time0.068543
+frameidx:316
+calcGradient:
+totalGradPoint:298
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:934
+Total ReGroup Time0.00373
+match Time:0.000939
+Total Time0.067402
+frameidx:317
+calcGradient:
+totalGradPoint:462
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:940
+Total ReGroup Time0.003714
+match Time:0.000983
+Total Time0.066565
+frameidx:318
+calcGradient:
+totalGradPoint:365
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003753
+match Time:0.000931
+Total Time0.065139
+frameidx:319
+calcGradient:
+totalGradPoint:500
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003448
+match Time:0.000933
+Total Time0.070938
+frameidx:320
+calcGradient:
+totalGradPoint:402
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:937
+Total ReGroup Time0.003652
+match Time:0.001007
+Total Time0.100986
+frameidx:321
+calcGradient:
+totalGradPoint:348
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:934
+Total ReGroup Time0.003834
+match Time:0.000928
+Total Time0.065912
+frameidx:322
+calcGradient:
+totalGradPoint:260
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.00362
+match Time:0.000938
+Total Time0.070682
+frameidx:323
+calcGradient:
+totalGradPoint:330
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003643
+match Time:0.000977
+Total Time0.066366
+frameidx:324
+calcGradient:
+totalGradPoint:323
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:940
+Total ReGroup Time0.003673
+match Time:0.000941
+Total Time0.076215
+frameidx:325
+calcGradient:
+totalGradPoint:223
+acceptPtrNum:23
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:936
+Total ReGroup Time0.003763
+match Time:0.000919
+Total Time0.071508
+frameidx:326
+calcGradient:
+totalGradPoint:294
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:934
+Total ReGroup Time0.004273
+match Time:0.000935
+Total Time0.069687
+frameidx:327
+calcGradient:
+totalGradPoint:421
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:935
+Total ReGroup Time0.003832
+match Time:0.000949
+Total Time0.070037
+frameidx:328
+calcGradient:
+totalGradPoint:273
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:931
+Total ReGroup Time0.003744
+match Time:0.000932
+Total Time0.067134
+frameidx:329
+calcGradient:
+totalGradPoint:628
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:934
+Total ReGroup Time0.003611
+match Time:0.000938
+Total Time0.067498
+frameidx:330
+calcGradient:
+totalGradPoint:199
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:934
+Total ReGroup Time0.003722
+match Time:0.000933
+Total Time0.066836
+frameidx:331
+calcGradient:
+totalGradPoint:418
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:928
+Total ReGroup Time0.003741
+match Time:0.000929
+Total Time0.073769
+frameidx:332
+calcGradient:
+totalGradPoint:407
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:922
+Total ReGroup Time0.003697
+match Time:0.000926
+Total Time0.068345
+frameidx:333
+calcGradient:
+totalGradPoint:658
+acceptPtrNum:45
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:935
+Total ReGroup Time0.003769
+match Time:0.000929
+Total Time0.064026
+frameidx:334
+calcGradient:
+totalGradPoint:371
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:934
+Total ReGroup Time0.003716
+match Time:0.000999
+Total Time0.067905
+frameidx:335
+calcGradient:
+totalGradPoint:273
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:929
+Total ReGroup Time0.003751
+match Time:0.000972
+Total Time0.072117
+frameidx:336
+calcGradient:
+totalGradPoint:735
+acceptPtrNum:48
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:924
+Total ReGroup Time0.00348
+match Time:0.000938
+Total Time0.065619
+frameidx:337
+calcGradient:
+totalGradPoint:276
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:920
+Total ReGroup Time0.003887
+match Time:0.000926
+Total Time0.064652
+frameidx:338
+calcGradient:
+totalGradPoint:393
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:930
+Total ReGroup Time0.003641
+match Time:0.000945
+Total Time0.06818
+frameidx:339
+calcGradient:
+totalGradPoint:671
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:935
+Total ReGroup Time0.003629
+match Time:0.001002
+Total Time0.069038
+frameidx:340
+calcGradient:
+totalGradPoint:481
+acceptPtrNum:47
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:922
+Total ReGroup Time0.003734
+match Time:0.000928
+Total Time0.066803
+frameidx:341
+calcGradient:
+totalGradPoint:722
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:920
+Total ReGroup Time0.003468
+match Time:0.000919
+Total Time0.074028
+frameidx:342
+calcGradient:
+totalGradPoint:571
+acceptPtrNum:52
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:928
+Total ReGroup Time0.003801
+match Time:0.000935
+Total Time0.067148
+frameidx:343
+calcGradient:
+totalGradPoint:406
+acceptPtrNum:45
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:923
+Total ReGroup Time0.003645
+match Time:0.000918
+Total Time0.065544
+frameidx:344
+calcGradient:
+totalGradPoint:385
+acceptPtrNum:44
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:936
+Total ReGroup Time0.003722
+match Time:0.000926
+Total Time0.066087
+frameidx:345
+calcGradient:
+totalGradPoint:638
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:934
+Total ReGroup Time0.003585
+match Time:0.00094
+Total Time0.074727
+frameidx:346
+calcGradient:
+totalGradPoint:320
+acceptPtrNum:45
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:935
+Total ReGroup Time0.003818
+match Time:0.000974
+Total Time0.070302
+frameidx:347
+calcGradient:
+totalGradPoint:301
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:928
+Total ReGroup Time0.003281
+match Time:0.000932
+Total Time0.064209
+frameidx:348
+calcGradient:
+totalGradPoint:536
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:934
+Total ReGroup Time0.003611
+match Time:0.000957
+Total Time0.069094
+frameidx:349
+calcGradient:
+totalGradPoint:378
+acceptPtrNum:46
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.00355
+match Time:0.00092
+Total Time0.065267
+frameidx:350
+calcGradient:
+totalGradPoint:683
+acceptPtrNum:45
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:937
+Total ReGroup Time0.007121
+match Time:0.000924
+Total Time0.102853
+frameidx:351
+calcGradient:
+totalGradPoint:544
+acceptPtrNum:51
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:937
+Total ReGroup Time0.003489
+match Time:0.00092
+Total Time0.072389
+frameidx:352
+calcGradient:
+totalGradPoint:469
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:934
+Total ReGroup Time0.003607
+match Time:0.000934
+Total Time0.069764
+frameidx:353
+calcGradient:
+totalGradPoint:267
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:924
+Total ReGroup Time0.00383
+match Time:0.00096
+Total Time0.069659
+frameidx:354
+calcGradient:
+totalGradPoint:358
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:937
+Total ReGroup Time0.003711
+match Time:0.000912
+Total Time0.068672
+frameidx:355
+calcGradient:
+totalGradPoint:413
+acceptPtrNum:45
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:937
+Total ReGroup Time0.003542
+match Time:0.000966
+Total Time0.070327
+frameidx:356
+calcGradient:
+totalGradPoint:422
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:931
+Total ReGroup Time0.003649
+match Time:0.000931
+Total Time0.069723
+frameidx:357
+calcGradient:
+totalGradPoint:234
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:929
+Total ReGroup Time0.003627
+match Time:0.000851
+Total Time0.071174
+frameidx:358
+calcGradient:
+totalGradPoint:293
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:929
+Total ReGroup Time0.003731
+match Time:0.000927
+Total Time0.077558
+frameidx:359
+calcGradient:
+totalGradPoint:344
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:919
+Total ReGroup Time0.003768
+match Time:0.000873
+Total Time0.068814
+frameidx:360
+calcGradient:
+totalGradPoint:268
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:933
+Total ReGroup Time0.003776
+match Time:0.000934
+Total Time0.080905
+frameidx:361
+calcGradient:
+totalGradPoint:316
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:931
+Total ReGroup Time0.003993
+match Time:0.000916
+Total Time0.078959
+frameidx:362
+calcGradient:
+totalGradPoint:430
+acceptPtrNum:47
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:928
+Total ReGroup Time0.004213
+match Time:0.000981
+Total Time0.079056
+frameidx:363
+calcGradient:
+totalGradPoint:467
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:929
+Total ReGroup Time0.004486
+match Time:0.000925
+Total Time0.070567
+frameidx:364
+calcGradient:
+totalGradPoint:325
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:926
+Total ReGroup Time0.004363
+match Time:0.000909
+Total Time0.078646
+frameidx:365
+calcGradient:
+totalGradPoint:635
+acceptPtrNum:59
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:930
+Total ReGroup Time0.004054
+match Time:0.000943
+Total Time0.076865
+frameidx:366
+calcGradient:
+totalGradPoint:353
+acceptPtrNum:52
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:929
+Total ReGroup Time0.00357
+match Time:0.00092
+Total Time0.071722
+frameidx:367
+calcGradient:
+totalGradPoint:356
+acceptPtrNum:41
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:932
+Total ReGroup Time0.00361
+match Time:0.000919
+Total Time0.071971
+frameidx:368
+calcGradient:
+totalGradPoint:455
+acceptPtrNum:53
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:934
+Total ReGroup Time0.003565
+match Time:0.000972
+Total Time0.080464
+frameidx:369
+calcGradient:
+totalGradPoint:358
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:927
+Total ReGroup Time0.00414
+match Time:0.000941
+Total Time0.06724
+frameidx:370
+calcGradient:
+totalGradPoint:303
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:932
+Total ReGroup Time0.003957
+match Time:0.000924
+Total Time0.077879
+frameidx:371
+calcGradient:
+totalGradPoint:369
+acceptPtrNum:50
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:936
+Total ReGroup Time0.003755
+match Time:0.000931
+Total Time0.068593
+frameidx:372
+calcGradient:
+totalGradPoint:227
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:932
+Total ReGroup Time0.003819
+match Time:0.000961
+Total Time0.077702
+frameidx:373
+calcGradient:
+totalGradPoint:347
+acceptPtrNum:49
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:931
+Total ReGroup Time0.003763
+match Time:0.00093
+Total Time0.070827
+frameidx:374
+calcGradient:
+totalGradPoint:465
+acceptPtrNum:55
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:924
+Total ReGroup Time0.00373
+match Time:0.000928
+Total Time0.071746
+frameidx:375
+calcGradient:
+totalGradPoint:403
+acceptPtrNum:45
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:934
+Total ReGroup Time0.004218
+match Time:0.001058
+Total Time0.074431
+frameidx:376
+calcGradient:
+totalGradPoint:373
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003772
+match Time:0.000932
+Total Time0.089159
+frameidx:377
+calcGradient:
+totalGradPoint:397
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.003679
+match Time:0.000953
+Total Time0.071042
+frameidx:378
+calcGradient:
+totalGradPoint:286
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003853
+match Time:0.00094
+Total Time0.072153
+frameidx:379
+calcGradient:
+totalGradPoint:441
+acceptPtrNum:48
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003576
+match Time:0.000994
+Total Time0.069149
+frameidx:380
+calcGradient:
+totalGradPoint:561
+acceptPtrNum:58
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:942
+Total ReGroup Time0.00767
+match Time:0.000938
+Total Time0.104816
+frameidx:381
+calcGradient:
+totalGradPoint:480
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003625
+match Time:0.000931
+Total Time0.069108
+frameidx:382
+calcGradient:
+totalGradPoint:174
+acceptPtrNum:26
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003684
+match Time:0.00093
+Total Time0.067693
+frameidx:383
+calcGradient:
+totalGradPoint:267
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003633
+match Time:0.000935
+Total Time0.066763
+frameidx:384
+calcGradient:
+totalGradPoint:281
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:950
+Total ReGroup Time0.003382
+match Time:0.000935
+Total Time0.088145
+frameidx:385
+calcGradient:
+totalGradPoint:145
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003451
+match Time:0.000934
+Total Time0.089942
+frameidx:386
+calcGradient:
+totalGradPoint:316
+acceptPtrNum:50
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.003392
+match Time:0.000956
+Total Time0.088466
+frameidx:387
+calcGradient:
+totalGradPoint:230
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:950
+Total ReGroup Time0.003669
+match Time:0.000951
+Total Time0.08133
+frameidx:388
+calcGradient:
+totalGradPoint:277
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003969
+match Time:0.00093
+Total Time0.07972
+frameidx:389
+calcGradient:
+totalGradPoint:171
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003521
+match Time:0.000931
+Total Time0.078641
+frameidx:390
+calcGradient:
+totalGradPoint:260
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003362
+match Time:0.000949
+Total Time0.071292
+frameidx:391
+calcGradient:
+totalGradPoint:274
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003354
+match Time:0.000939
+Total Time0.067938
+frameidx:392
+calcGradient:
+totalGradPoint:194
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:950
+Total ReGroup Time0.003319
+match Time:0.00096
+Total Time0.07011
+frameidx:393
+calcGradient:
+totalGradPoint:266
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003966
+match Time:0.000948
+Total Time0.067934
+frameidx:394
+calcGradient:
+totalGradPoint:153
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003935
+match Time:0.000906
+Total Time0.082315
+frameidx:395
+calcGradient:
+totalGradPoint:342
+acceptPtrNum:45
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.004101
+match Time:0.000921
+Total Time0.070686
+frameidx:396
+calcGradient:
+totalGradPoint:352
+acceptPtrNum:46
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:942
+Total ReGroup Time0.004195
+match Time:0.000923
+Total Time0.069858
+frameidx:397
+calcGradient:
+totalGradPoint:289
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003664
+match Time:0.000918
+Total Time0.069749
+frameidx:398
+calcGradient:
+totalGradPoint:285
+acceptPtrNum:45
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.00388
+match Time:0.000919
+Total Time0.070967
+frameidx:399
+calcGradient:
+totalGradPoint:242
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.004329
+match Time:0.000915
+Total Time0.074125
+frameidx:400
+calcGradient:
+totalGradPoint:196
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.004006
+match Time:0.000922
+Total Time0.077569
+frameidx:401
+calcGradient:
+totalGradPoint:138
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.004126
+match Time:0.000924
+Total Time0.077871
+frameidx:402
+calcGradient:
+totalGradPoint:288
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.004094
+match Time:0.000945
+Total Time0.066882
+frameidx:403
+calcGradient:
+totalGradPoint:192
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003644
+match Time:0.000925
+Total Time0.065339
+frameidx:404
+calcGradient:
+totalGradPoint:241
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:940
+Total ReGroup Time0.003743
+match Time:0.000923
+Total Time0.073137
+frameidx:405
+calcGradient:
+totalGradPoint:268
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003616
+match Time:0.00113
+Total Time0.071461
+frameidx:406
+calcGradient:
+totalGradPoint:331
+acceptPtrNum:47
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003713
+match Time:0.000935
+Total Time0.077931
+frameidx:407
+calcGradient:
+totalGradPoint:637
+acceptPtrNum:53
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:942
+Total ReGroup Time0.003853
+match Time:0.000884
+Total Time0.077291
+frameidx:408
+calcGradient:
+totalGradPoint:264
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003675
+match Time:0.000922
+Total Time0.078
+frameidx:409
+calcGradient:
+totalGradPoint:292
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:940
+Total ReGroup Time0.003632
+match Time:0.000921
+Total Time0.077373
+frameidx:410
+calcGradient:
+totalGradPoint:260
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.007073
+match Time:0.001692
+Total Time0.103406
+frameidx:411
+calcGradient:
+totalGradPoint:173
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003966
+match Time:0.000954
+Total Time0.07899
+frameidx:412
+calcGradient:
+totalGradPoint:274
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003843
+match Time:0.000914
+Total Time0.077754
+frameidx:413
+calcGradient:
+totalGradPoint:523
+acceptPtrNum:41
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.00384
+match Time:0.000933
+Total Time0.08035
+frameidx:414
+calcGradient:
+totalGradPoint:311
+acceptPtrNum:37
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:931
+Total ReGroup Time0.00367
+match Time:0.000929
+Total Time0.078675
+frameidx:415
+calcGradient:
+totalGradPoint:514
+acceptPtrNum:49
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003284
+match Time:0.000915
+Total Time0.073939
+frameidx:416
+calcGradient:
+totalGradPoint:329
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.003251
+match Time:0.000922
+Total Time0.071772
+frameidx:417
+calcGradient:
+totalGradPoint:454
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003325
+match Time:0.000927
+Total Time0.073043
+frameidx:418
+calcGradient:
+totalGradPoint:252
+acceptPtrNum:48
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003263
+match Time:0.000929
+Total Time0.078811
+frameidx:419
+calcGradient:
+totalGradPoint:399
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003121
+match Time:0.000942
+Total Time0.076511
+frameidx:420
+calcGradient:
+totalGradPoint:198
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003619
+match Time:0.000917
+Total Time0.075567
+frameidx:421
+calcGradient:
+totalGradPoint:404
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003304
+match Time:0.000931
+Total Time0.071177
+frameidx:422
+calcGradient:
+totalGradPoint:436
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003406
+match Time:0.000867
+Total Time0.071437
+frameidx:423
+calcGradient:
+totalGradPoint:469
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:948
+Total ReGroup Time0.00332
+match Time:0.000897
+Total Time0.069881
+frameidx:424
+calcGradient:
+totalGradPoint:663
+acceptPtrNum:51
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003508
+match Time:0.00092
+Total Time0.083066
+frameidx:425
+calcGradient:
+totalGradPoint:436
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.003549
+match Time:0.000912
+Total Time0.07833
+frameidx:426
+calcGradient:
+totalGradPoint:431
+acceptPtrNum:54
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.0036
+match Time:0.000923
+Total Time0.070363
+frameidx:427
+calcGradient:
+totalGradPoint:352
+acceptPtrNum:42
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:937
+Total ReGroup Time0.003573
+match Time:0.000923
+Total Time0.078109
+frameidx:428
+calcGradient:
+totalGradPoint:288
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.003666
+match Time:0.000928
+Total Time0.080669
+frameidx:429
+calcGradient:
+totalGradPoint:392
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003597
+match Time:0.000947
+Total Time0.079361
+frameidx:430
+calcGradient:
+totalGradPoint:148
+acceptPtrNum:26
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003528
+match Time:0.00093
+Total Time0.082069
+frameidx:431
+calcGradient:
+totalGradPoint:298
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003871
+match Time:0.000933
+Total Time0.070917
+frameidx:432
+calcGradient:
+totalGradPoint:325
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:950
+Total ReGroup Time0.003784
+match Time:0.000927
+Total Time0.078422
+frameidx:433
+calcGradient:
+totalGradPoint:251
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003662
+match Time:0.001104
+Total Time0.078596
+frameidx:434
+calcGradient:
+totalGradPoint:195
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.003628
+match Time:0.001049
+Total Time0.081138
+frameidx:435
+calcGradient:
+totalGradPoint:202
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:938
+Total ReGroup Time0.003772
+match Time:0.001105
+Total Time0.079144
+frameidx:436
+calcGradient:
+totalGradPoint:193
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.003788
+match Time:0.000931
+Total Time0.077679
+frameidx:437
+calcGradient:
+totalGradPoint:228
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:940
+Total ReGroup Time0.003771
+match Time:0.000954
+Total Time0.07903
+frameidx:438
+calcGradient:
+totalGradPoint:306
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:936
+Total ReGroup Time0.003834
+match Time:0.000946
+Total Time0.080483
+frameidx:439
+calcGradient:
+totalGradPoint:251
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003756
+match Time:0.000934
+Total Time0.078788
+frameidx:440
+calcGradient:
+totalGradPoint:214
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.007553
+match Time:0.00189
+Total Time0.116332
+frameidx:441
+calcGradient:
+totalGradPoint:306
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:940
+Total ReGroup Time0.003815
+match Time:0.000932
+Total Time0.079869
+frameidx:442
+calcGradient:
+totalGradPoint:313
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:936
+Total ReGroup Time0.003796
+match Time:0.000965
+Total Time0.070377
+frameidx:443
+calcGradient:
+totalGradPoint:314
+acceptPtrNum:36
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003661
+match Time:0.000936
+Total Time0.076679
+frameidx:444
+calcGradient:
+totalGradPoint:199
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.004441
+match Time:0.00093
+Total Time0.079717
+frameidx:445
+calcGradient:
+totalGradPoint:267
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:940
+Total ReGroup Time0.004126
+match Time:0.000947
+Total Time0.069945
+frameidx:446
+calcGradient:
+totalGradPoint:233
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:938
+Total ReGroup Time0.003902
+match Time:0.000954
+Total Time0.079336
+frameidx:447
+calcGradient:
+totalGradPoint:245
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.004359
+match Time:0.000951
+Total Time0.069814
+frameidx:448
+calcGradient:
+totalGradPoint:286
+acceptPtrNum:35
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.004289
+match Time:0.00093
+Total Time0.081653
+frameidx:449
+calcGradient:
+totalGradPoint:360
+acceptPtrNum:44
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003922
+match Time:0.000976
+Total Time0.069152
+frameidx:450
+calcGradient:
+totalGradPoint:228
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.004411
+match Time:0.000909
+Total Time0.068591
+frameidx:451
+calcGradient:
+totalGradPoint:111
+acceptPtrNum:20
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.00373
+match Time:0.000923
+Total Time0.078564
+frameidx:452
+calcGradient:
+totalGradPoint:218
+acceptPtrNum:28
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003738
+match Time:0.000961
+Total Time0.081775
+frameidx:453
+calcGradient:
+totalGradPoint:206
+acceptPtrNum:32
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003804
+match Time:0.000916
+Total Time0.069588
+frameidx:454
+calcGradient:
+totalGradPoint:322
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:940
+Total ReGroup Time0.003722
+match Time:0.000936
+Total Time0.079744
+frameidx:455
+calcGradient:
+totalGradPoint:192
+acceptPtrNum:26
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.00395
+match Time:0.000953
+Total Time0.071369
+frameidx:456
+calcGradient:
+totalGradPoint:306
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003747
+match Time:0.000929
+Total Time0.078729
+frameidx:457
+calcGradient:
+totalGradPoint:320
+acceptPtrNum:29
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003546
+match Time:0.000927
+Total Time0.07167
+frameidx:458
+calcGradient:
+totalGradPoint:306
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.00379
+match Time:0.000919
+Total Time0.069725
+frameidx:459
+calcGradient:
+totalGradPoint:393
+acceptPtrNum:43
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003824
+match Time:0.000931
+Total Time0.077226
+frameidx:460
+calcGradient:
+totalGradPoint:172
+acceptPtrNum:26
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:942
+Total ReGroup Time0.003827
+match Time:0.000932
+Total Time0.071409
+frameidx:461
+calcGradient:
+totalGradPoint:294
+acceptPtrNum:38
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003768
+match Time:0.00094
+Total Time0.086664
+frameidx:462
+calcGradient:
+totalGradPoint:295
+acceptPtrNum:44
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003701
+match Time:0.000932
+Total Time0.086098
+frameidx:463
+calcGradient:
+totalGradPoint:282
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003984
+match Time:0.000933
+Total Time0.08868
+frameidx:464
+calcGradient:
+totalGradPoint:226
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.004184
+match Time:0.001012
+Total Time0.088293
+frameidx:465
+calcGradient:
+totalGradPoint:220
+acceptPtrNum:18
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:944
+Total ReGroup Time0.00429
+match Time:0.00092
+Total Time0.089429
+frameidx:466
+calcGradient:
+totalGradPoint:490
+acceptPtrNum:40
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.004149
+match Time:0.000911
+Total Time0.069679
+frameidx:467
+calcGradient:
+totalGradPoint:183
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:938
+Total ReGroup Time0.003743
+match Time:0.000928
+Total Time0.080274
+frameidx:468
+calcGradient:
+totalGradPoint:336
+acceptPtrNum:39
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003572
+match Time:0.000928
+Total Time0.079964
+frameidx:469
+calcGradient:
+totalGradPoint:85
+acceptPtrNum:18
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:946
+Total ReGroup Time0.003721
+match Time:0.000938
+Total Time0.077536
+frameidx:470
+calcGradient:
+totalGradPoint:40
+acceptPtrNum:13
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:933
+Total ReGroup Time0.003718
+match Time:0.000947
+Total Time0.118899
+frameidx:471
+calcGradient:
+totalGradPoint:150
+acceptPtrNum:25
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:945
+Total ReGroup Time0.003654
+match Time:0.00092
+Total Time0.078593
+frameidx:472
+calcGradient:
+totalGradPoint:164
+acceptPtrNum:31
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003743
+match Time:0.000917
+Total Time0.068725
+frameidx:473
+calcGradient:
+totalGradPoint:177
+acceptPtrNum:23
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:935
+Total ReGroup Time0.00363
+match Time:0.000936
+Total Time0.082034
+frameidx:474
+calcGradient:
+totalGradPoint:527
+acceptPtrNum:54
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:947
+Total ReGroup Time0.003659
+match Time:0.000943
+Total Time0.070583
+frameidx:475
+calcGradient:
+totalGradPoint:220
+acceptPtrNum:30
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:940
+Total ReGroup Time0.003764
+match Time:0.000948
+Total Time0.07385
+frameidx:476
+calcGradient:
+totalGradPoint:90
+acceptPtrNum:17
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.003736
+match Time:0.000964
+Total Time0.079078
+frameidx:477
+calcGradient:
+totalGradPoint:118
+acceptPtrNum:27
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:938
+Total ReGroup Time0.003835
+match Time:0.000936
+Total Time0.080059
+frameidx:478
+calcGradient:
+totalGradPoint:321
+acceptPtrNum:34
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:937
+Total ReGroup Time0.003639
+match Time:0.000917
+Total Time0.079261
+frameidx:479
+calcGradient:
+totalGradPoint:208
+acceptPtrNum:26
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:943
+Total ReGroup Time0.003639
+match Time:0.000936
+Total Time0.081737
+frameidx:480
+calcGradient:
+totalGradPoint:128
+acceptPtrNum:21
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:939
+Total ReGroup Time0.003464
+match Time:0.000954
+Total Time0.081964
+frameidx:481
+calcGradient:
+totalGradPoint:245
+acceptPtrNum:26
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:941
+Total ReGroup Time0.003635
+match Time:0.000928
+Total Time0.088755
+frameidx:482
+calcGradient:
+totalGradPoint:363
+acceptPtrNum:33
+tracker
+filterTrackGPU
+Finshed filterTrackGPU
+total BFS:937
+Total ReGroup Time0.003603
+match Time:0.00094
+Total Time0.066443
